@@ -49,6 +49,7 @@ composer.lock
 /src/shipping/proto/
 /src/currency/proto
 /src/frontend/pb
+/src/flag-ui/rel
 
 # Otel Demo specific
 docker-compose.override.yml
